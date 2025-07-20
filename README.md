@@ -6,24 +6,24 @@ Project Title: F1Analytics – A Web Platform for Analyzing Formula 1 Data
 F1Analytics is a web-based platform designed to provide motorsport enthusiasts, data analysts, and developers with interactive tools to explore and analyze Formula 1 data. The platform will aggregate historical and real-time F1 data and present it through user-friendly visualizations, statistics, and custom query tools. Users will be able to gain insights into driver performance, team strategy, circuit trends, and race outcomes.
 
 #Objectives:
-Develop a responsive website that aggregates and displays F1 data in a digestible format.
+  - Develop a responsive website that aggregates and displays F1 data in a digestible format.
 
-Allow users to interact with data through filters, comparisons, and custom queries.
+  - Allow users to interact with data through filters, comparisons, and custom queries.
 
-Visualize race results, qualifying times, pit strategies, lap-by-lap analysis, and telemetry data.
+  - Visualize race results, qualifying times, pit strategies, lap-by-lap analysis, and telemetry data.
 
-Provide APIs or data export options for deeper analysis.
+  - Provide APIs or data export options for deeper analysis.
 
-Encourage user engagement through data storytelling, dashboards, and insights.
+  - Encourage user engagement through data storytelling, dashboards, and insights.
 
 # Target Audience:
-F1 fans and enthusiasts
+  - F1 fans and enthusiasts
 
-Sports analysts and journalists
+  - Sports analysts and journalists
 
-Data scientists and students
+  - Data scientists and students
 
-Fantasy F1 league players
+  - Fantasy F1 league players
 
 # Core Features:
 1. Dashboard & Overview
